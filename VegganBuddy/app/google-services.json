@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "951327562242",
+    "firebase_url": "https://torontocab-5b2ba.firebaseio.com",
+    "project_id": "torontocab-5b2ba",
+    "storage_bucket": "torontocab-5b2ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951327562242:android:0ae6db6fc1d07960",
+        "android_client_info": {
+          "package_name": "com.example.torontocab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951327562242-uv6nofkbgkt9bjvdiunok2nmrk02q5ai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.torontocab",
+            "certificate_hash": "25e18654ced82bc654281382a6a6e8d4d084d23e"
+          }
+        },
+        {
+          "client_id": "951327562242-ic1fn5es1p5kgg3975692l3mh727nu6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLUNNrL1dEk-9tQoF1Q-fNln3L31PQ-X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951327562242-ic1fn5es1p5kgg3975692l3mh727nu6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
